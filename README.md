@@ -7,7 +7,8 @@ What i would like to do now, is to find someone who is willing to collaborate an
 what do you think?
 
 here are is a screenshot of the Main UI 
-Lobby:https://photos-3.dropbox.com/t/2/AADHz3yHFNeLRGnB_g9-0Khe_IYulYuUAHrfTbhuWpx7UQ/12/52617394/jpeg/32x32/1/_/1/2/ui_2.jpg/EO2OxygY_BggAigC/vZQYrmEkn6sOTPEQ4ibfnz0Lkpo3HNiQo9kkuaBISn0?size=1024x768&size_mode=2
+Lobby:http://tinyurl.com/o343jd7
+which can be found in: TANKS/Assets/Interface/MainUI.unity
 
 and the trello board with all open taks:
 https://trello.com/b/Edf46b7C/tanks-multiplayer
