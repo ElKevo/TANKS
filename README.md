@@ -6,9 +6,11 @@ What i would like to do now, is to find someone who is willing to collaborate an
 
 what do you think?
 
-here are is a screenshot of the Main UI 
-Lobby:http://tinyurl.com/o343jd7
+here are is a screenshot of the Main UI
+Lobby: http://tinyurl.com/o343jd7
 which can be found in: TANKS/Assets/Interface/MainUI.unity
 
 and the trello board with all open taks:
 https://trello.com/b/Edf46b7C/tanks-multiplayer
+
+questions: add me on skype: el_kevooo
