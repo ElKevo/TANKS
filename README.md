@@ -7,7 +7,7 @@ What i would like to do now, is to find someone who is willing to collaborate an
 what do you think?
 
 here are is a screenshot of the Main UI
-Lobby: http://tinyurl.com/o343jd7 or http://p1.pichost.me/i/78/2025489.png if link is broken
+Lobby: http://forum.unity3d.com/attachments/ui_5-png.158856/
 which can be found in: TANKS/Assets/Interface/MainUI.unity
 
 and the trello board with all open taks:
